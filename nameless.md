@@ -1,4 +1,4 @@
 ---
 layout: forward
-target: https://grabify.link/ETJQM8
+target: https://iplogger.org/2A4RF4
 ---
