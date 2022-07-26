@@ -1,4 +1,4 @@
 ---
 layout: forward
-target: https://discord.gg/A38zKZEvt4
+target: https://discord.gg/UrDMryGkmf
 ---
